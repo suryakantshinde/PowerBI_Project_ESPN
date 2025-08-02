@@ -17,3 +17,4 @@ Second one is related to bowling data analysis and third one is related to field
 
 There was some tabular data which was basically being represented, 
 the ESPN Cricinfo Statsguru page.
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/1c3eba37-28bd-44b1-8f02-0b9517702a16" />
